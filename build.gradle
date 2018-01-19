@@ -1,7 +1,7 @@
 apply plugin: 'java'
 apply plugin: 'idea'
 
-group = 'org.oldcode.javafunc'
+group = 'org.oldcode.intro.javafunc'
 version = '0.1.0-SNAPSHOT'
 description = 'FIXME: write description'
 
@@ -26,6 +26,4 @@ dependencies {
     testCompile "org.mockito:mockito-core:2.+"
 }
 
-
-
-
+mainClassName = "org.oldcode.intro.javafunc.Main"
