@@ -1,7 +1,7 @@
 apply plugin: 'java'
 apply plugin: 'idea'
 
-group = 'org.oldcode.javaweb'
+group = 'org.oldcode.javafunc'
 version = '0.1.0-SNAPSHOT'
 description = 'FIXME: write description'
 
